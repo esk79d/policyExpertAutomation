@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="E2E automation Test Suite" verbose="1" parallel="none">
+
+
+    <test name="PolicyExpert :-Enter Customer Details for Home Insurance Quote">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+        </classes>
+    </test>
+</suite>
