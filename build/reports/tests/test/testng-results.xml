@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Thread id = 11</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Mr</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 7</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: July</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 1977</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Married</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Police Officer')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'Yes')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-other-o')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Actor or Actress')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Thread id = 11</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Mr</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 7</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: July</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 1977</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Married</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Police Officer')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'No')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Thread id = 11</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Mr</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 7</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: July</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 1977</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Married</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Police Officer')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'No')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+    <line>
+      <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+    </line>
+  </reporter-output>
+  <suite name="E2E automation Test Suite" duration-ms="20236" started-at="2021-10-17T23:17:41 BST" finished-at="2021-10-17T23:18:01 BST">
+    <groups>
+    </groups>
+    <test name="PolicyExpert :-Enter Customer Details for Home Insurance Quote" duration-ms="20236" started-at="2021-10-17T23:17:41 BST" finished-at="2021-10-17T23:18:01 BST">
+      <class name="testScenarios.HomeTest">
+        <test-method status="PASS" signature="launchBrowser(java.lang.String)[pri:0, instance:testScenarios.HomeTest@191f3231]" name="launchBrowser" is-config="true" duration-ms="4804" started-at="2021-10-17T23:17:41 BST" finished-at="2021-10-17T23:17:45 BST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="setUp" is-config="true" duration-ms="31" started-at="2021-10-17T23:17:46 BST" finished-at="2021-10-17T23:17:46 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Thread id = 11</font></li>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fillCustomerDetailsWithDualOccupation()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="fillCustomerDetailsWithDualOccupation" duration-ms="7376" started-at="2021-10-17T23:17:46 BST" finished-at="2021-10-17T23:17:53 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Mr</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 7</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: July</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 1977</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Married</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Police Officer')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'Yes')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-other-o')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Actor or Actress')]</font></li>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fillCustomerDetailsWithDualOccupation -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="setUp" is-config="true" duration-ms="1" started-at="2021-10-17T23:17:53 BST" finished-at="2021-10-17T23:17:53 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Thread id = 11</font></li>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="fillCustomerDetailsWithSingleOccupation()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="fillCustomerDetailsWithSingleOccupation" duration-ms="3315" started-at="2021-10-17T23:17:53 BST" finished-at="2021-10-17T23:17:56 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Mr</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 7</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: July</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 1977</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Married</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Police Officer')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'No')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- fillCustomerDetailsWithSingleOccupation -->
+        <test-method status="PASS" signature="validateContactDetails()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="validateContactDetails" duration-ms="3857" started-at="2021-10-17T23:17:56 BST" finished-at="2021-10-17T23:18:00 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Mr</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 7</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: July</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: 1977</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Select drop down by visible txt: Married</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //li[contains(text(),'Police Officer')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'No')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+            <line>
+              <![CDATA[<li><font color='#00529B'>enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]</font></li>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateContactDetails -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="setUp" is-config="true" duration-ms="0" started-at="2021-10-17T23:17:56 BST" finished-at="2021-10-17T23:17:56 BST">
+          <reporter-output>
+            <line>
+              <![CDATA[<li><font color='#00529B'>Thread id = 11</font></li>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScenarios.HomeTest@191f3231]" name="tearDown" is-config="true" duration-ms="791" started-at="2021-10-17T23:18:00 BST" finished-at="2021-10-17T23:18:01 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScenarios.HomeTest -->
+    </test> <!-- PolicyExpert :-Enter Customer Details for Home Insurance Quote -->
+  </suite> <!-- E2E automation Test Suite -->
+</testng-results>

@@ -25,6 +25,4 @@ public class Locators {
     public static  By phoneNumber = By.xpath("//div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]");
     public static  By emailAddress=By.xpath("//div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]");
     public static By emailError = By.xpath("//span[contains(text(),'Please enter a valid email address')]");
-
-
 }

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testScenarios.HomeTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-17T22:17:46" hostname="RSG-LEVAPBFTOEX" time="14.57">
+  <properties/>
+  <testcase name="fillCustomerDetailsWithDualOccupation" classname="testScenarios.HomeTest" time="7.376"/>
+  <testcase name="fillCustomerDetailsWithSingleOccupation" classname="testScenarios.HomeTest" time="3.315"/>
+  <testcase name="validateContactDetails" classname="testScenarios.HomeTest" time="3.857"/>
+  <system-out><![CDATA[INFO    2021-10-17 23:17:46,025 [Test worker] utils.DriverInit  - Thread id = 11
+INFO    2021-10-17 23:17:46,061 [Test worker] utils.ElementActions  - Select drop down by visible txt: Mr
+INFO    2021-10-17 23:17:48,298 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:48,794 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:49,102 [Test worker] utils.ElementActions  - Select drop down by visible txt: 7
+INFO    2021-10-17 23:17:49,264 [Test worker] utils.ElementActions  - Select drop down by visible txt: July
+INFO    2021-10-17 23:17:49,418 [Test worker] utils.ElementActions  - Select drop down by visible txt: 1977
+INFO    2021-10-17 23:17:49,610 [Test worker] utils.ElementActions  - Select drop down by visible txt: Married
+INFO    2021-10-17 23:17:49,835 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:51,180 [Test worker] utils.ElementActions  - click on the locator By.xpath: //li[contains(text(),'Police Officer')]
+INFO    2021-10-17 23:17:51,180 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:51,481 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:52,038 [Test worker] utils.ElementActions  - click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'Yes')]
+INFO    2021-10-17 23:17:52,039 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-other-o')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:53,424 [Test worker] utils.ElementActions  - click on the locator By.xpath: //li[contains(text(),'Actor or Actress')]
+INFO    2021-10-17 23:17:53,444 [Test worker] utils.DriverInit  - Thread id = 11
+INFO    2021-10-17 23:17:53,445 [Test worker] utils.ElementActions  - Select drop down by visible txt: Mr
+INFO    2021-10-17 23:17:53,558 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:53,849 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:54,039 [Test worker] utils.ElementActions  - Select drop down by visible txt: 7
+INFO    2021-10-17 23:17:54,136 [Test worker] utils.ElementActions  - Select drop down by visible txt: July
+INFO    2021-10-17 23:17:54,243 [Test worker] utils.ElementActions  - Select drop down by visible txt: 1977
+INFO    2021-10-17 23:17:54,414 [Test worker] utils.ElementActions  - Select drop down by visible txt: Married
+INFO    2021-10-17 23:17:54,606 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:55,881 [Test worker] utils.ElementActions  - click on the locator By.xpath: //li[contains(text(),'Police Officer')]
+INFO    2021-10-17 23:17:56,102 [Test worker] utils.ElementActions  - click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'No')]
+INFO    2021-10-17 23:17:56,103 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:56,401 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:56,762 [Test worker] utils.DriverInit  - Thread id = 11
+INFO    2021-10-17 23:17:56,762 [Test worker] utils.ElementActions  - Select drop down by visible txt: Mr
+INFO    2021-10-17 23:17:56,851 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-first-name')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:57,053 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-last-name')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:57,261 [Test worker] utils.ElementActions  - Select drop down by visible txt: 7
+INFO    2021-10-17 23:17:57,359 [Test worker] utils.ElementActions  - Select drop down by visible txt: July
+INFO    2021-10-17 23:17:57,436 [Test worker] utils.ElementActions  - Select drop down by visible txt: 1977
+INFO    2021-10-17 23:17:57,531 [Test worker] utils.ElementActions  - Select drop down by visible txt: Married
+INFO    2021-10-17 23:17:57,637 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-occupat')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:17:59,437 [Test worker] utils.ElementActions  - click on the locator By.xpath: //li[contains(text(),'Police Officer')]
+INFO    2021-10-17 23:17:59,684 [Test worker] utils.ElementActions  - click on the locator By.xpath: //div[contains(@class,'row question-row-do-you-have-another')]//button[contains(text(),'No')]
+INFO    2021-10-17 23:17:59,685 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:18:00,079 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-what-is-your-e-mail')]//input[contains(@type,'text')]
+INFO    2021-10-17 23:18:00,306 [Test worker] utils.ElementActions  - enter text into the locator By.xpath: //div[contains(@class,'row question-row-main-phone-number')]//input[contains(@type,'text')]
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Starting ChromeDriver 93.0.4577.63 (ff5c0da2ec0adeaed5550e6c7e98417dac77d98a-refs/branch-heads/4577@{#1135}) on port 23173
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Oct 17, 2021 11:17:44 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
