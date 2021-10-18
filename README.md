@@ -1,7 +1,7 @@
 # policyExpertAutomation
 #This file gives an overview of what this project does and how to execute these tests
 
-# Below are the tools that have been used this for automation framework.
+# Below are the tools that have been used in this automation framework.
 1)Java as Programming language
 
 2)Selenium webdriver for web UI automation
